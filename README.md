@@ -45,7 +45,8 @@ Adicione o bloco abaixo em um local apropriado no arquivo items.lua:
     close       = true,
     client = {
         image = "155.png",
-        event = "hotwire:client",   -- apenas dispara este event
+        event = "kit155:hotwire:client",   -- apenas dispara este event
+
     },
 },
 🖼️ Imagem
