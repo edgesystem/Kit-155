@@ -22,6 +22,7 @@ ox-inventory (registro do item/imagem)
 
 ps-dispatch (dispara alerta de furto quando o kit for usado)
 
+mm_carkeys " na MRI é chamado de mri_Qcarkeys "  ( essa versão gratuita foi feita pra usar especificamente com mm_carkeys, versão premium que logo sai é universal. )
 📥 Instalação
 
 Copie o módulo para sua pasta addons (ou diretório equivalente do servidor).
